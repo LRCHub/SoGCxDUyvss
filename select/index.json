@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "竹中雄大 - Best Friend【Performance Video】（西野カナ cover）／カバーアルバム『DIVA』収録（2026.1.14 Release)",
+  "base_artist": "竹中雄大",
+  "createdAt": "2026-03-10T07:55:54.113947Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Friend",
+      "artist": "竹中雄大",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Friend_竹中雄大.txt"
+    }
+  ]
+}
